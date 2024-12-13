@@ -82,7 +82,7 @@ Although no specific map is included in this repository, results such as water t
 
 ### Access the Model
 
-The complete MODFLOW2000 model files can be accessed here [Google Drive](https://drive.google.com/file/d/1EFVDZLF57ToSNo7O74yvDIgAALQKi295/view?usp=drive_link)|[Google Drive](https://drive.google.com/file/d/1sXAesRlLd0sUAzXCzuIjJSCD1vzB9G1N/view?usp=drive_link). 
+The complete MODFLOW2000 model files can be accessed here [Unsteady State](https://drive.google.com/file/d/1EFVDZLF57ToSNo7O74yvDIgAALQKi295/view?usp=drive_link)|[Steady State](https://drive.google.com/file/d/1sXAesRlLd0sUAzXCzuIjJSCD1vzB9G1N/view?usp=drive_link). 
 ### References
 
 Harbaugh, A. W., et al. (2000). "MODFLOW-2000, the US Geological Survey Modular Ground-Water Model." USGS Open-File Report 00-92.
